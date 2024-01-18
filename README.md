@@ -1,4 +1,4 @@
-The above codes are for the paper "Synthesizing Toffoli-optimal quantum circuits for arbitrary multi-qubit unitaries", by Priyanka Mukhopadhyay.
+The above codes are for the paper "Synthesizing Toffoli-optimal quantum circuits for arbitrary multi-qubit unitaries" (arXiv preprint arXiv:2401.08950), by Priyanka Mukhopadhyay.
 The implementations are in Python.
 
 Exact_Tof_opt.py : This is the code for synthesizing exactly implementable unitaries. It implements EXACT-TOF-OPT and its sub-routines.
